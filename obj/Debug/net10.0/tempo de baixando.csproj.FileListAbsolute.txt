@@ -1,0 +1,14 @@
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.GeneratedMSBuildEditorConfig.editorconfig
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.AssemblyInfoInputs.cache
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.AssemblyInfo.cs
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.csproj.CoreCompileInputs.cache
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\bin\Debug\net10.0\tempo de baixando.exe
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\bin\Debug\net10.0\tempo de baixando.deps.json
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\bin\Debug\net10.0\tempo de baixando.runtimeconfig.json
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\bin\Debug\net10.0\tempo de baixando.dll
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\bin\Debug\net10.0\tempo de baixando.pdb
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.dll
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\refint\tempo de baixando.dll
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.pdb
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\tempo de baixando.genruntimeconfig.cache
+D:\pc escolar\trabalhos\trbalhos de progamação\03\tempo de baixando\obj\Debug\net10.0\ref\tempo de baixando.dll
